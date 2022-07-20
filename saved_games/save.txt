@@ -1,0 +1,9 @@
+---
+:tries: 5
+:rand_word: alloy
+:guess:
+- a
+- "-"
+- "-"
+- o
+- "-"

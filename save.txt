@@ -1,0 +1,13 @@
+---
+:tries: 2
+:rand_word: examining
+:guess:
+- e
+- "-"
+- a
+- m
+- i
+- "-"
+- i
+- "-"
+- "-"
